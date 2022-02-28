@@ -1,4 +1,0 @@
-model/User.class
-controller/Servlet.class
-service/ZodiacDao.class
-utility/ConnectionManager.class
